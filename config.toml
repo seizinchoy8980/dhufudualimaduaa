@@ -1,0 +1,4 @@
+baseURL = "https://notes-musicx55.vercel.app"
+languageCode = "en-us"
+title = "Young Song Sheet Music"
+theme = "hugo-theme-minos"
